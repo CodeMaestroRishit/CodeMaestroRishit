@@ -34,8 +34,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestroRishit&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&hide_border=true&langs_count=6" width="320" />
-
 I'm a pre-final year **B.Tech Computer Science (Cybersecurity)** student at **RV University, Bengaluru**. I build systems that are not only powerful but inherently *resilient*.
 
 My work sits at the intersection of **backend architecture**, **web security**, and **machine learning** — from designing WAF configurations and scalable REST APIs to engineering ML pipelines that detect phishing at scale.
