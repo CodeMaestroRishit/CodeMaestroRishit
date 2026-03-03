@@ -1,222 +1,360 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi, I'm Rishit Guha 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>B.Tech CSE (Cybersecurity) | ML‑Powered Threat Detection | GRC‑Curious</b>
-  <br/>
-  Bengaluru, India
-</p>
+<!-- ANIMATED BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=220&section=header&text=Rishit%20Guha&fontSize=72&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Threat%20Detection&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
-<p align="center">
-  <a href="mailto:rishitguha0824@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rishitguha0824%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="[https://www.linkedin.com/in/rishit-guha](https://www.linkedin.com/in/rishit-guha-419684278/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishit%20Guha-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[https://github.com/rishitguha0824](https://github.com/CodeMaestroRishit)">
-    <img src="https://img.shields.io/badge/GitHub-rishitguha0824-black?style=for-the-badge&logo=github" />
-  </a>
-  <!-- Optional resume/portfolio link -->
-  <!-- <a href="https://your-portfolio-or-resume-link.com">
-    <img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a> -->
-</p>
+<!-- SOCIAL BADGES -->
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishitguha0824&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<a href="mailto:rishitguha0824@gmail.com">
+  <img src="https://img.shields.io/badge/%20-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/rishit-guha-419684278/">
+  <img src="https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/CodeMaestroRishit">
+  <img src="https://img.shields.io/badge/%20-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+ML-powered+defenses+against+phishing+and+voice+fraud;Deploying+WAFs%2C+hardening+apps%2C+and+analyzing+logs;Turning+security+signals+into+business+decisions;Always+learning+Cybersecurity+%26+AI"
-    alt="Typing SVG"
-  />
-</p>
+<img src="https://komarev.com/ghpvc/?username=CodeMaestroRishit&label=Profile%20Views&color=6E40C9&style=for-the-badge" alt="profile views" />
 
----
+<br/><br/>
 
-## 🧑‍💻 About Me
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Building+ML-powered+defenses+against+cyber+threats;%F0%9F%94%8D+Turning+security+signals+into+actionable+intelligence;%F0%9F%8E%AF+Top+2+National+Finalist+%E2%80%93+India+AI+Impact+Summit+2026" alt="Typing SVG" />
 
-- 🎓 3rd‑year **B.Tech (Hons.) Computer Science – Cybersecurity specialization** at RV University, Bangalore.  
-- 🛡️ Hands‑on with **web app security testing, WAF deployments, SIEM‑style log analysis, and incident documentation**.  
-- 🤖 I love using **ML & AI** to detect **phishing, voice fraud, and deepfakes**, especially for Indian languages.  
-- 📊 Interested in **Cybersecurity Management / GRC** – understanding how risk translates into board‑level decisions.  
-- 🚀 Currently exploring: **threat detection pipelines, SOC workflows, and ISO/PCI‑DSS/SOC2‑style controls**.
+</div>
 
----
+<br/>
 
-## 🏆 Highlights
+<!-- ABOUT SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%" />
 
-- 🥈 **Top 2 National Finalist** – India AI Impact Summit 2026 (VaaniRekha – AI Voice Fraud Detection).  
-- 🥇 **1st Prize** – IEEE Smart City Infrastructure Project Exhibition (ResQ Healthcare).  
-- 💰 **Runner‑up (₹25,000 seed funding)** – IGNITIA 2K25.  
-- 📜 **Network Defense Essentials – EC‑Council** + AI / data‑oriented trainings (Google, IBM, etc.).
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
----
+```yaml
+name: Rishit Guha
+location: Bengaluru, India 🇮🇳
+education:
+  degree: B.Tech (Hons.) Computer Science Engineering
+  specialization: Cybersecurity
+  university: RV University, Bengaluru
+  year: 2023 – 2027
 
-## 🔧 Tech & Security Stack
+current_focus:
+  - 🛡️ Web App Security Testing & WAF Deployments
+  - 🤖 ML/AI for Phishing, Voice Fraud & Deepfake Detection
+  - 📊 GRC & Cybersecurity Management
+  - 🔬 Threat Detection Pipelines & SOC Workflows
+  - 📋 ISO/PCI-DSS/SOC2 Style Controls
 
-### Languages & Core
+fun_fact: "I turn security signals into board-level decisions 📈"
+```
 
+<br/>
+
+<!-- TROPHY SECTION -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥈 Top 2 National Finalist
+**India AI Impact Summit 2026**<br/>
+<sub>VaaniRekha – AI Voice Fraud Detection</sub>
+
+</td>
+<td align="center" width="50%">
+
+### 🥇 1st Prize
+**IEEE Smart City Infrastructure**<br/>
+<sub>Project Exhibition – ResQ Healthcare</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 💰 Runner-up · ₹25K Seed Funding
+**IGNITIA 2K25**<br/>
+<sub>Startup Competition</sub>
+
+</td>
+<td align="center" width="50%">
+
+### 📜 Certifications
+**EC-Council · Google · IBM**<br/>
+<sub>Network Defense Essentials + AI/Data Trainings</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- TECH STACK -->
+## 🛠️ Tech & Security Arsenal
+
+<div align="center">
+
+<details open>
+<summary><b>⚡ Languages & Core</b></summary>
+<br/>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript&theme=dark" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
+</details>
 
-### Backend, APIs & Cloud
-
+<details open>
+<summary><b>🌐 Backend, APIs & Cloud</b></summary>
+<br/>
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-%23569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,aws,docker,nginx&theme=dark" />
 </p>
-
-### DevOps, Networking & OS
-
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-%23FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-%23569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=swagger&logoColor=white" />
 </p>
+</details>
 
-### Security Tools & Frameworks
-
+<details open>
+<summary><b>🔒 Security Tools & Frameworks</b></summary>
+<br/>
 <p>
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/WAF-NGINX_OpenAppSec-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00E572" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004F9F?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/WAF-NGINX+OpenAppSec-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+</details>
 
-### AI / ML & Voice Tech
+<details open>
+<summary><b>🧠 AI / ML & Voice Tech</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/wav2vec2-ASR-3C3C3D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sarvam_AI-Voice_APIs-6E40C9?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ DevOps & Infrastructure</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,nginx&theme=dark" />
+</p>
+</details>
+
+</div>
+
+<br/>
+
+<!-- PROJECTS -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
+
+<div align="center">
+
+<!-- Project 1 -->
+<a href="https://github.com/CodeMaestroRishit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeMaestroRishit&repo=VaaniRekha_Final_Submission&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&icon_color=A371F7" />
+</a>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Phishing Detector
+**ML-Based Security Platform**
+
+> End-to-end phishing detection for URLs + emails
+
+- ⚡ Trained on **400k+ samples** → **~96% accuracy**
+- 🌐 Chrome extension for **real-time URL risk scoring**
+- 📊 Telemetry logging & analysis dashboard
+- 🛠️ `Python` `ML` `Flask` `FastAPI` `Docker` `Chrome APIs`
 
 <p>
-  <img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASR-wav2vec2-3C3C3D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sarvam_AI-Voice_APIs-4E46E5?style=for-the-badge" />
+  <a href="https://github.com/CodeMaestroRishit"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+### 🎙️ VaaniRekha
+**AI Voice Fraud Detection API**
 
-### 🔐 Phishing Detector – ML‑Based Security Platform
-> End‑to‑end phishing detection for URLs + emails.
+> Detect voice fraud & deepfakes across Indian languages
 
-- Trained on **400k+ samples** with **~96% accuracy** (URL & email features).  
-- Chrome extension for **real‑time URL risk scoring** + telemetry logging.  
-- Built with **Python, ML, Flask/FastAPI, Docker, Chrome Extension APIs**.  
+- 🗣️ Detects fraud keywords (**OTP, Aadhaar, PAN, CVV**) in **9+ languages**
+- 🧠 Powered by **Sarvam AI + wav2vec2**
+- 📈 Tiered risk scoring: `HIGH` / `MEDIUM` / `LOW`
+- 🐳 Dockerized on **Railway** with health checks + auth
 
 <p>
-  <a href="https://github.com/your-repo-link-here">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://chrome.google.com/webstore/detail/your-extension-id">
-    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://your-demo-link-here">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit-green?style=for-the-badge" />
-  </a>
+  <a href="https://github.com/CodeMaestroRishit/VaaniRekha_Final_Submission"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/API-Live-00C853?style=flat-square" /></a>
 </p>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎙️ VaaniRekha – AI Voice Fraud Detection API
-> FastAPI microservice to detect voice fraud & deepfakes across Indian languages.
+### 🏥 ResQ Healthcare
+**Smart Emergency & Summarization**
 
-- Detects fraud keywords like **OTP, Aadhaar, PAN, CVV** in **9+ Indian languages**.  
-- Uses **Sarvam AI, wav2vec2**, and a **tiered risk score (HIGH / MEDIUM / LOW)**.  
-- Dockerized and deployed on **Railway**, with **health checks + API auth**.  
-- Tested via **Postman** and integrated logs for reliability.
+> QR-based emergency system with AI-powered medical summaries
+
+- 📱 **QR + MySQL** backend for low-connectivity settings
+- 🤖 AI-generated **medical summaries** for quick triage
+- 🏆 Built for **EY Techathon 2025** – winning top recognition
+- 🛠️ `Python` `MySQL` `AI/ML` `QR`
 
 <p>
-  <a href="https://github.com/your-repo-link-here">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://your-api-link-here/health">
-    <img src="https://img.shields.io/badge/API-Health_Check-blue?style=for-the-badge" />
-  </a>
+  <a href="https://github.com/CodeMaestroRishit"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Demo-Live-00C853?style=flat-square" /></a>
 </p>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏥 ResQ Healthcare – Smart Emergency & Summarization
-> QR‑based emergency system with AI‑powered medical summaries.
+### 🌐 Personal Portfolio
+**My Website**
 
-- **QR + MySQL backend** to pull patient info in low‑connectivity settings.  
-- Generates concise **AI medical summaries** to help doctors make quick decisions.  
-- Built for **EY Techathon 2025**, winning **top recognition & awards**.
+> Modern, animated personal website
+
+- ✨ Sleek dark theme with smooth animations
+- 📱 Fully responsive across all devices
+- 🎨 Custom CSS with glassmorphism effects
+- 🛠️ `HTML` `CSS` `JavaScript`
 
 <p>
-  <a href="https://github.com/your-repo-link-here">
-    <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://your-live-demo-link-here">
-    <img src="https://img.shields.io/badge/Live_Demo-Open-green?style=for-the-badge" />
-  </a>
+  <a href="https://github.com/CodeMaestroRishit"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
----
+</td>
+</tr>
+</table>
 
+<br/>
+
+<!-- EXPERIENCE -->
 ## 💼 Experience
 
-### 💻 Software Developer Intern – BluePMS Software Solutions (Dec 2025 – Jan 2026)
+<div align="center">
 
-- Backend dev for a **cloud‑based hotel PMS** using **MySQL + production REST APIs**.  
-- Fixed **SQL stored procedures**, validated **data integrity from logs**, and assisted in **API testing & Git‑based reviews**.
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│  💻  Software Developer Intern                                         │
+│      BluePMS Software Solutions  •  Dec 2025 – Jan 2026                │
+│                                                                        │
+│      ▸ Backend dev for cloud-based hotel PMS (MySQL + REST APIs)       │
+│      ▸ Fixed SQL stored procedures & validated data integrity          │
+│      ▸ API testing & Git-based code reviews                            │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│  🔍  Research Intern                                                    │
+│      C-DOT, Government of India  •  Jun 2025 – Jul 2025               │
+│                                                                        │
+│      ▸ Web app security testing (Burp Suite: SQLi, XSS, Slowloris)    │
+│      ▸ Designed layered NGINX + OpenAppSec WAF architecture            │
+│      ▸ Monitored rule-trigger logs & wrote security reports            │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-### 🔍 Research Intern – C‑DOT, Govt. of India (Jun 2025 – Jul 2025)
+</div>
 
-- Performed **web app security testing** using **Burp Suite** (SQLi, XSS, Slowloris simulations).  
-- Designed layered **NGINX + OpenAppSec WAF**, and monitored **rule‑trigger logs** for detection effectiveness.  
-- Documented incidents end‑to‑end in **structured security reports**.
+<br/>
 
----
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
 
-## 📚 Education
+<div align="center">
 
-- 🎓 **B.Tech (Hons.) Computer Science Engineering, Cybersecurity Specialization**  
-  RV University, Bengaluru (2023 – 2027)  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeMaestroRishit&show_icons=true&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaestroRishit&theme=github-dark-blue&border=30363D&background=0D1117&stroke=A371F7&ring=A371F7&fire=FF6E40&currStreakLabel=A371F7&sideLabels=C9D1D9&dates=8B949E" />
 
-Relevant coursework: **OS, DBMS, Computer Networks, Cryptography, Cloud, Web Security**.
+<br/><br/>
 
----
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestroRishit&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&hide_border=false" />
 
-## 🤝 Let’s Collaborate
+</div>
 
-I’m always open to:
+<br/>
 
-- Cybersecurity, threat detection, and **GRC / security management** projects.  
-- Internships in **SOC, application security, or security engineering**.  
-- Hackathons focused on **AI + cybersecurity + public good**.
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeMaestroRishit&custom_title=Contribution%20Graph&bg_color=0D1117&color=A371F7&line=A371F7&point=FF6E40&area_color=161B22&area=true&hide_border=true" width="95%" />
+</div>
 
-<p align="center">
-  <a href="mailto:rishitguha0824@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rishit-guha">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rishitguha0824">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br/>
 
----
+<!-- EDUCATION -->
+## 🎓 Education
+
+<div align="center">
+
+| | Details |
+|---|---|
+| 🏛️ **University** | RV University, Bengaluru |
+| 📘 **Degree** | B.Tech (Hons.) Computer Science Engineering |
+| 🔐 **Specialization** | Cybersecurity |
+| 📅 **Duration** | 2023 – 2027 |
+| 📚 **Key Courses** | OS · DBMS · Computer Networks · Cryptography · Cloud · Web Security |
+
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on **cybersecurity**, **threat detection**, **GRC**, and **AI + security** projects.
+
+<br/>
+
+<a href="mailto:rishitguha0824@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rishit-guha-419684278/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/CodeMaestroRishit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=120&section=footer" width="100%" />
+
+</div>
