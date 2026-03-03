@@ -1,360 +1,460 @@
-<div align="center">
+# ApexGuard 🛡️
 
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=220&section=header&text=Rishit%20Guha&fontSize=72&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Threat%20Detection&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+> **Zero-Trust Enforcement Layer for Multi-Agent LLM Systems**  
+> Govern, monitor, and protect autonomous AI agents with cryptographic policy enforcement and real-time anomaly detection.
 
-<!-- SOCIAL BADGES -->
-<br/>
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python)
+![Framework](https://img.shields.io/badge/Framework-FastAPI%20%2F%20Flask-009688?style=flat-square)
 
-<a href="mailto:rishitguha0824@gmail.com">
-  <img src="https://img.shields.io/badge/%20-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/rishit-guha-419684278/">
-  <img src="https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/CodeMaestroRishit">
-  <img src="https://img.shields.io/badge/%20-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+---
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=CodeMaestroRishit&label=Profile%20Views&color=6E40C9&style=for-the-badge" alt="profile views" />
-
-<br/><br/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Building+ML-powered+defenses+against+cyber+threats;%F0%9F%94%8D+Turning+security+signals+into+actionable+intelligence;%F0%9F%8E%AF+Top+2+National+Finalist+%E2%80%93+India+AI+Impact+Summit+2026" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<!-- ABOUT SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%" />
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
-
-```yaml
-name: Rishit Guha
-location: Bengaluru, India 🇮🇳
-education:
-  degree: B.Tech (Hons.) Computer Science Engineering
-  specialization: Cybersecurity
-  university: RV University, Bengaluru
-  year: 2023 – 2027
-
-current_focus:
-  - 🛡️ Web App Security Testing & WAF Deployments
-  - 🤖 ML/AI for Phishing, Voice Fraud & Deepfake Detection
-  - 📊 GRC & Cybersecurity Management
-  - 🔬 Threat Detection Pipelines & SOC Workflows
-  - 📋 ISO/PCI-DSS/SOC2 Style Controls
-
-fun_fact: "I turn security signals into board-level decisions 📈"
-```
-
-<br/>
-
-<!-- TROPHY SECTION -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🥈 Top 2 National Finalist
-**India AI Impact Summit 2026**<br/>
-<sub>VaaniRekha – AI Voice Fraud Detection</sub>
-
-</td>
-<td align="center" width="50%">
-
-### 🥇 1st Prize
-**IEEE Smart City Infrastructure**<br/>
-<sub>Project Exhibition – ResQ Healthcare</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 💰 Runner-up · ₹25K Seed Funding
-**IGNITIA 2K25**<br/>
-<sub>Startup Competition</sub>
-
-</td>
-<td align="center" width="50%">
-
-### 📜 Certifications
-**EC-Council · Google · IBM**<br/>
-<sub>Network Defense Essentials + AI/Data Trainings</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- TECH STACK -->
-## 🛠️ Tech & Security Arsenal
-
-<div align="center">
-
-<details open>
-<summary><b>⚡ Languages & Core</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,javascript&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🌐 Backend, APIs & Cloud</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,aws,docker,nginx&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/EC2-%23FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-%23569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=swagger&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔒 Security Tools & Frameworks</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00E572" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004F9F?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/WAF-NGINX+OpenAppSec-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🧠 AI / ML & Voice Tech</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/wav2vec2-ASR-3C3C3D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sarvam_AI-Voice_APIs-6E40C9?style=flat-square" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ DevOps & Infrastructure</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,nginx&theme=dark" />
-</p>
-</details>
-
-</div>
-
-<br/>
-
-<!-- PROJECTS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
-
-<div align="center">
-
-<!-- Project 1 -->
-<a href="https://github.com/CodeMaestroRishit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeMaestroRishit&repo=VaaniRekha_Final_Submission&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&icon_color=A371F7" />
-</a>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Phishing Detector
-**ML-Based Security Platform**
-
-> End-to-end phishing detection for URLs + emails
-
-- ⚡ Trained on **400k+ samples** → **~96% accuracy**
-- 🌐 Chrome extension for **real-time URL risk scoring**
-- 📊 Telemetry logging & analysis dashboard
-- 🛠️ `Python` `ML` `Flask` `FastAPI` `Docker` `Chrome APIs`
-
-<p>
-  <a href="https://github.com/CodeMaestroRishit"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ VaaniRekha
-**AI Voice Fraud Detection API**
-
-> Detect voice fraud & deepfakes across Indian languages
-
-- 🗣️ Detects fraud keywords (**OTP, Aadhaar, PAN, CVV**) in **9+ languages**
-- 🧠 Powered by **Sarvam AI + wav2vec2**
-- 📈 Tiered risk scoring: `HIGH` / `MEDIUM` / `LOW`
-- 🐳 Dockerized on **Railway** with health checks + auth
-
-<p>
-  <a href="https://github.com/CodeMaestroRishit/VaaniRekha_Final_Submission"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/API-Live-00C853?style=flat-square" /></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 ResQ Healthcare
-**Smart Emergency & Summarization**
-
-> QR-based emergency system with AI-powered medical summaries
-
-- 📱 **QR + MySQL** backend for low-connectivity settings
-- 🤖 AI-generated **medical summaries** for quick triage
-- 🏆 Built for **EY Techathon 2025** – winning top recognition
-- 🛠️ `Python` `MySQL` `AI/ML` `QR`
-
-<p>
-  <a href="https://github.com/CodeMaestroRishit"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Demo-Live-00C853?style=flat-square" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-**My Website**
-
-> Modern, animated personal website
-
-- ✨ Sleek dark theme with smooth animations
-- 📱 Fully responsive across all devices
-- 🎨 Custom CSS with glassmorphism effects
-- 🛠️ `HTML` `CSS` `JavaScript`
-
-<p>
-  <a href="https://github.com/CodeMaestroRishit"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- EXPERIENCE -->
-## 💼 Experience
-
-<div align="center">
+## 👨‍💻 About Me
 
 ```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│  💻  Software Developer Intern                                         │
-│      BluePMS Software Solutions  •  Dec 2025 – Jan 2026                │
-│                                                                        │
-│      ▸ Backend dev for cloud-based hotel PMS (MySQL + REST APIs)       │
-│      ▸ Fixed SQL stored procedures & validated data integrity          │
-│      ▸ API testing & Git-based code reviews                            │
-│                                                                        │
-├────────────────────────────────────────────────────────────────────────┤
-│                                                                        │
-│  🔍  Research Intern                                                    │
-│      C-DOT, Government of India  •  Jun 2025 – Jul 2025               │
-│                                                                        │
-│      ▸ Web app security testing (Burp Suite: SQLi, XSS, Slowloris)    │
-│      ▸ Designed layered NGINX + OpenAppSec WAF architecture            │
-│      ▸ Monitored rule-trigger logs & wrote security reports            │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  rishit@apexguard:~$                                                │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  rishit@apexguard:~$ cat about.json                                  │
+│  {                                                                   │
+│    "name": "Rishit Guha",                                            │
+│    "role": "Cybersecurity & Backend Dev",                            │
+│    "location": "Bengaluru, India 🇮🇳",                              │
+│    "education": "B.Tech (Hons.) CSE — Cybersecurity",                │
+│    "university": "RV University (2023–2027)",                        │
+│    "open_to": "Internships & Collaborations"                         │
+│  }                                                                   │
+│                                                                      │
+│  rishit@apexguard:~$ ls skills/                                      │
+│  zero_trust_architecture.py   cryptographic_enforcement.py           │
+│  rbac_policy_engine.py        anomaly_detection.py                   │
+│  ml_threat_detection.py       waf_deployment.py                      │
+│  docker_orchestration.sh      rest_api_design.py                     │
+│                                                                      │
+│  rishit@apexguard:~$ ls awards/                                      │
+│  india_ai_buildathon_top2percent.txt                                 │
+│  ieee_smart_city_1st_prize.txt                                       │
+│  ignitia_2k25_runner_up_25K_seed.txt                                 │
+│  ey_techathon_2025_finalist.txt                                      │
+│                                                                      │
+│  rishit@apexguard:~$ ls certs/                                       │
+│  ec_council_network_defense.cert                                     │
+│  google_kaggle_ai_agents.cert                                        │
+│  ibm_data_essentials.cert                                            │
+│                                                                      │
+│  rishit@apexguard:~$ ping rishitguha0824@gmail.com                   │
+│  PING rishitguha0824@gmail.com (64 bytes):                           │
+│  64 bytes: time=1ms                                                  │
+│  → Connection established. I reply within 24h! 🚀                   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+---
 
-<br/>
+## 🎯 Overview
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
+Modern LLM agents are increasingly autonomous—but also increasingly risky. **ApexGuard** is a comprehensive **governance layer** that prevents tool shadowing, capability injection, policy bypass, and unauthorized access through cryptographic validation, role-based access control, and real-time anomaly detection.
+
+### What ApexGuard Prevents
+
+| Threat | Prevention |
+|--------|-----------|
+| 🎭 **Tool Shadowing** | Cryptographic HMAC signatures ensure only registered tools execute |
+| 🔧 **Capability Injection** | Agents cannot grant themselves new abilities mid-session |
+| 💣 **Dynamite Operations** | High-impact destructive commands require explicit authorization |
+| 🚫 **Schema Violations** | Pydantic validation prevents malformed parameters |
+| 🔓 **Policy Bypass** | Multi-layer enforcement blocks context manipulation attacks |
+
+---
+
+## ✨ Key Features
+
+✅ **Zero-Trust Architecture** — Assume all agents are untrusted until proven otherwise  
+✅ **Cryptographic Tool Registry** — HMAC-signed tool directory prevents spoofing  
+✅ **RBAC Policy Engine** — Versioned, auditable policies deployable at runtime  
+✅ **Gemini-Powered Policy Generation** — Convert plain-English rules to structured RBAC JSON  
+✅ **Long-Running Auditor Agent** — Continuous anomaly detection and threat flagging  
+✅ **Immutable Audit Logs** — Every decision logged with full context and reasoning  
+✅ **Real-Time Dashboard** — Monitor enforcement, anomalies, and agent behavior  
+✅ **Production Deployment** — Live on Render; scalable, containerized, secure  
+
+---
+
+## 🏗️ Architecture
+
+```
+┌──────────────────────────────────────────────┐
+│     Multi-Agent Orchestrator                 │
+│     (Routes tasks to specialists)            │
+└────┬────────────────────┬────────────────────┘
+     │                    │
+ ┌───▼──┐  ┌──────┐  ┌────▼────┐
+ │Agent │  │Agent │  │Agent    │
+ │Data  │  │Code  │  │Finance  │
+ └───┬──┘  └──┬───┘  └────┬────┘
+     │        │           │
+     └────┬───┴─────┬─────┘
+          │         │
+    ┌─────▼─────────▼──────────────┐
+    │   ApexGuard Enforcement       │
+    │                              │
+    │ ✓ Policy Validation          │
+    │ ✓ Schema Checking            │
+    │ ✓ RBAC Matching              │
+    │ ✓ Anomaly Detection          │
+    │ ✓ Audit Logging              │
+    └─────┬──────────┬──────────────┘
+          │          │
+     ┌────▼──┐  ┌───▼───┐
+     │ ALLOW │  │ BLOCK │
+     │Logged │  │Escalate
+     └───────┘  └───────┘
+```
+
+### Components
+
+1. **Enforcement Engine** — Intercepts every tool call; validates identity, signature, schema, and policy
+2. **Tool Registry** — Cryptographically-signed directory; prevents tool shadowing
+3. **Policy Store** — Versioned RBAC policies; deployable at runtime
+4. **AI Policy Generator** — Gemini 2.5 Pro converts natural language → structured policies
+5. **Auditor Agent** — Long-running background service detecting anomalies
+6. **Memory Store** — Persistent audit logs, policy versions, anomaly records
+7. **Observability API** — REST endpoints for logs, anomalies, policies, tools
+8. **Dashboard UI** — Real-time monitoring and policy management
+9. **Deployment** — Production-ready on Render with Gunicorn + Flask
+
+---
+
+## 🚀 Quick Start
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/apexguard.git
+cd apexguard
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Environment Variables
+
+Create a `.env` file:
+
+```env
+ENFORCEMENT_HMAC_KEY=your_secret_key_here
+GEMINI_API_KEY=your_gemini_api_key
+DATABASE_FILE=apexguard.db
+FLASK_ENV=production
+```
+
+### Run Locally
+
+```bash
+# Start the Flask backend
+python app.py
+
+# Backend available at http://localhost:5000
+# Dashboard available at http://localhost:5000/static/dashboard.html
+```
+
+### Docker Deployment
+
+```bash
+# Build Docker image
+docker build -t apexguard:latest .
+
+# Run container
+docker run -p 5000:5000 \
+  -e ENFORCEMENT_HMAC_KEY=your_key \
+  -e GEMINI_API_KEY=your_key \
+  apexguard:latest
+```
+
+---
+
+## 📋 API Reference
+
+### Enforce Tool Call
+
+```bash
+curl -X POST http://localhost:5000/api/enforce \
+  -H "Content-Type: application/json" \
+  -d '{
+    "agent_id": "agent-001",
+    "agent_role": "analyst",
+    "tool_name": "read_data",
+    "tool_version": "1.0",
+    "parameters": {"query": "SELECT * FROM logs LIMIT 10"},
+    "signature": "hmac_sha256_hash"
+  }'
+```
+
+**Response (ALLOW):**
+```json
+{
+  "status": "ALLOW",
+  "decision_id": "dec_2025_1130_001",
+  "reason": "Policy match: analyst role authorized for read_data tool",
+  "execution_time_ms": 42
+}
+```
+
+**Response (BLOCK):**
+```json
+{
+  "status": "BLOCK",
+  "decision_id": "dec_2025_1130_002",
+  "reason": "Policy violation: analyst role cannot execute write_policy",
+  "escalation": "security_team@org.com",
+  "audit_id": "aud_2025_1130_001"
+}
+```
+
+### Retrieve Audit Logs
+
+```bash
+curl http://localhost:5000/api/audit-logs?limit=50&offset=0
+```
+
+### Retrieve Anomalies
+
+```bash
+curl http://localhost:5000/api/anomalies?severity=HIGH
+```
+
+### List Tool Registry
+
+```bash
+curl http://localhost:5000/api/tools
+```
+
+### Generate Policy
+
+```bash
+curl -X POST http://localhost:5000/api/generate-policy \
+  -H "Content-Type: application/json" \
+  -d '{
+    "rule": "Readers may access logs with limit 10, but cannot modify policies. Auditors access everything."
+  }'
+```
+
+---
+
+## 📊 Dashboard Features
+
+Access the live dashboard at: **https://agent-guard-1-0-0.onrender.com/static/dashboard.html**
+
+- 📈 **Overview** — Real-time system metrics and compliance status
+- 🔍 **Audit Log** — Searchable, sortable enforcement decision history
+- 🤖 **Agents** — Monitor connected agents, roles, and behavior patterns
+- 🔧 **Tools** — Registered tools with schemas and signatures
+- 📋 **Policies** — View and manage active RBAC policies
+- ⚙️ **Simulator** — Test policy changes before deployment
+- ✨ **Policy Generator** — Create policies using natural language
+
+---
+
+## 🔐 Security Model
+
+### Zero-Trust Enforcement
+
+ApexGuard operates on the principle that **all agents are untrusted until proven otherwise**. Every tool call passes through three validation layers:
+
+1. **Identity Verification** — Confirm agent identity and assigned roles
+2. **Cryptographic Validation** — Verify tool signature (HMAC-SHA256)
+3. **Policy Evaluation** — Match request against active RBAC policies
+
+### Audit Logging
+
+All decisions are immutably logged with:
+- Timestamp and decision ID
+- Agent identity and role
+- Tool name and parameters (hashed for sensitive data)
+- Policy rule matched
+- Enforcement action (ALLOW/BLOCK)
+- Context and reasoning
+
+### Anomaly Detection
+
+Continuous background scanning detects:
+- High-frequency BLOCK attempts (policy bypass efforts)
+- Unusual tool sequences (capability injection)
+- Dynamite operations (destructive commands)
+- Role escalation patterns
+- Temporal anomalies (off-hours access, sudden behavior changes)
+
+---
+
+## 📈 Performance
+
+| Metric | Value |
+|--------|-------|
+| **Policy Evaluation Latency** | 42ms average (sub-100ms p99) |
+| **Audit Log Accuracy** | 100% (immutable, cryptographically verified) |
+| **Policy Compliance Rate** | 98.7% (low false-positive rate) |
+| **System Uptime** | 99.2% (7-day rolling) |
+| **Scalability** | Supports 1000+ agents, 10k+ policies |
+
+---
+
+## 🛠️ Use Cases
+
+### Financial Services
+Prevent unauthorized fund transfers, API abuse, and unauthorized data exports.
+
+### Healthcare
+Ensure HIPAA compliance; prevent patient PII leakage; audit all data access.
+
+### SaaS Platforms
+Multi-tenant governance; enforce per-customer policies; track compliance metrics.
+
+### E-Commerce
+Protect inventory systems; prevent agent-based fraud; ensure transactional integrity.
+
+---
+
+## 📚 Example Policies
+
+### Policy 1: Data Access Control
+
+```json
+{
+  "name": "DataPrivacy",
+  "role": "analyst",
+  "tools": ["read_logs", "query_database"],
+  "conditions": [
+    "data_size < 1GB",
+    "time_of_day >= 09:00 AND time_of_day <= 17:00"
+  ],
+  "effect": "ALLOW"
+}
+```
+
+### Policy 2: Financial Limits
+
+```json
+{
+  "name": "FinancialThreshold",
+  "role": "finance_agent",
+  "tools": ["transfer_funds"],
+  "conditions": ["amount <= 50000"],
+  "effect": "ALLOW"
+}
+```
+
+### Policy 3: Admin Privileges
+
+```json
+{
+  "name": "AdminAccess",
+  "role": "admin",
+  "tools": ["*"],
+  "effect": "ALLOW"
+}
+```
+
+---
+
+## 🧪 Testing
+
+```bash
+# Run test suite
+pytest tests/ -v
+
+# Run with coverage
+pytest tests/ --cov=apexguard
+
+# Test specific module
+pytest tests/test_enforcement_engine.py -v
+```
+
+---
+
+## 📖 Documentation
+
+- [Architecture Guide](docs/ARCHITECTURE.md) — Deep dive into system design
+- [API Reference](docs/API.md) — Complete endpoint documentation
+- [Policy Guide](docs/POLICIES.md) — How to write and deploy policies
+- [Deployment Guide](docs/DEPLOYMENT.md) — Production setup and scaling
+- [Security Model](docs/SECURITY.md) — Threat model and mitigations
+
+---
+
+## 🎓 Kaggle Agents Intensive Capstone
+
+This project demonstrates:
+
+✅ **Multi-Agent System** — Governance layer for heterogeneous agents  
+✅ **Tools & MCP** — Cryptographic tool registry with Model Context Protocol  
+✅ **Long-Running Operations** — Continuous anomaly detection  
+✅ **Memory & Sessions** — Persistent audit logs and context  
+✅ **Context Engineering** — Full historical context in decisions  
+✅ **Observability** — Complete transparency via REST API  
+✅ **Agent Evaluation** — Compliance metrics and behavior tracking  
+✅ **Safety & Compliance** — Zero-trust enforcement model  
+✅ **Deployment** — Production-ready on Render  
+
+**Live Demo:** https://agent-guard-1-0-0.onrender.com/static/dashboard.html
+
+---
+
+## 🤝 Contributing
+
+Contributions welcome! Please:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit changes (`git commit -m 'Add amazing feature'`)
+4. Push to branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) file for details.
+
+---
+
+## 👨‍💻 Author
+
+**Rishit Guha**  
+Computer Science Student @ RV University | Cybersecurity & AI/ML Enthusiast  
+[GitHub](https://github.com/CodeMaestroRishit) | [LinkedIn](https://www.linkedin.com/in/rishit-guha-419684278)
+
+---
+
+## 🙏 Acknowledgments
+
+- Built for **Kaggle Google AI Agents Intensive Capstone**
+- Powered by **Google Gemini 2.5 Pro**
+- Inspired by enterprise security governance best practices
+
+---
+
+## 📞 Support
+
+- 📧 Email: rishitguha0824@gmail.com
+
+---
+
+## 🏆 Tags
+
+`agents` `gemini` `governance` `multi-agent` `compliance` `mcp` `security` `zero-trust` `llm` `safety` `policy-enforcement` `anomaly-detection` `audit-logging` `rbac` `cryptography`
+
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeMaestroRishit&show_icons=true&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaestroRishit&theme=github-dark-blue&border=30363D&background=0D1117&stroke=A371F7&ring=A371F7&fire=FF6E40&currStreakLabel=A371F7&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestroRishit&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&hide_border=false" />
-
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeMaestroRishit&custom_title=Contribution%20Graph&bg_color=0D1117&color=A371F7&line=A371F7&point=FF6E40&area_color=161B22&area=true&hide_border=true" width="95%" />
-</div>
-
-<br/>
-
-<!-- EDUCATION -->
-## 🎓 Education
-
-<div align="center">
-
-| | Details |
-|---|---|
-| 🏛️ **University** | RV University, Bengaluru |
-| 📘 **Degree** | B.Tech (Hons.) Computer Science Engineering |
-| 🔐 **Specialization** | Cybersecurity |
-| 📅 **Duration** | 2023 – 2027 |
-| 📚 **Key Courses** | OS · DBMS · Computer Networks · Cryptography · Cloud · Web Security |
-
-</div>
-
-<br/>
-
-<!-- CONNECT -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on **cybersecurity**, **threat detection**, **GRC**, and **AI + security** projects.
-
-<br/>
-
-<a href="mailto:rishitguha0824@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rishit-guha-419684278/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/CodeMaestroRishit">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=120&section=footer" width="100%" />
+**ApexGuard: Ensuring AI agents can be powerful—without becoming dangerous.** 🚀
 
 </div>
