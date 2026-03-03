@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=220&section=header&text=Rishit%20Guha&fontSize=72&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Systems &descSize=20&descAlignY=55&descAlign=50" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=220&section=header&text=Rishit%20Guha&fontSize=72&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Systems&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 <!-- SOCIAL BADGES -->
 <br/>
 
