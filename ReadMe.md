@@ -34,33 +34,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  rishit@portfolio:~$                                                │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  rishit@portfolio:~$ cat about.json                                  │
-│  {                                                                   │
-│    "name": "Rishit Guha",                                            │
-│    "role": "Cybersecurity & Backend Dev",                            │
-│    "location": "Bengaluru, India 🇮🇳",                              │
-│    "education": "B.Tech (Hons.) CSE — Cybersecurity",                │
-│    "university": "RV University (2023–2027)",                        │
-│    "open_to": "Internships & Collaborations"                         │
-│  }                                                                   │
-│                                                                      │
-│  rishit@portfolio:~$ ls current_focus/                               │
-│  🛡️  web_app_security_testing.py                                    │
-│  🤖  ml_phishing_voice_fraud_detection.py                           │
-│  📊  grc_cybersecurity_management.md                                 │
-│  🔬  threat_detection_soc_workflows.sh                               │
-│  📋  iso_pci_dss_soc2_controls.md                                    │
-│                                                                      │
-│  rishit@portfolio:~$ echo $FUN_FACT                                  │
-│  → "I turn security signals into board-level decisions 📈"          │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="terminal_about.svg" alt="Terminal About Me" width="800" />
+</div>
 
 <br/>
 
