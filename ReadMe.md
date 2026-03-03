@@ -11,10 +11,10 @@
   <a href="mailto:rishitguha0824@gmail.com">
     <img src="https://img.shields.io/badge/Email-rishitguha0824%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rishit-guha">
+  <a href="[https://www.linkedin.com/in/rishit-guha](https://www.linkedin.com/in/rishit-guha-419684278/)">
     <img src="https://img.shields.io/badge/LinkedIn-Rishit%20Guha-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/rishitguha0824">
+  <a href="[https://github.com/rishitguha0824](https://github.com/CodeMaestroRishit)">
     <img src="https://img.shields.io/badge/GitHub-rishitguha0824-black?style=for-the-badge&logo=github" />
   </a>
   <!-- Optional resume/portfolio link -->
