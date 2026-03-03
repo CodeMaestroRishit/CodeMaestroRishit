@@ -34,22 +34,25 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```yaml
-name: Rishit Guha
-location: Bengaluru, India 🇮🇳
-education:
-  degree: B.Tech (Hons.) Computer Science Engineering
-  specialization: Cybersecurity
-  university: RV University, Bengaluru
-  year: 2023 – 2027
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestroRishit&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&hide_border=true&langs_count=6" width="320" />
 
-current_focus:
-  - 🛡️ Web App Security Testing & WAF Deployments
-  - 🤖 ML/AI for Phishing, Voice Fraud & Deepfake Detection
-  - 📊 GRC & Cybersecurity Management
-  - 🔬 Threat Detection Pipelines & SOC Workflows
-  - 📋 ISO/PCI-DSS/SOC2 Style Controls
-```
+I'm a pre-final year **B.Tech Computer Science (Cybersecurity)** student at **RV University, Bengaluru**. I build systems that are not only powerful but inherently *resilient*.
+
+My work sits at the intersection of **backend architecture**, **web security**, and **machine learning** — from designing WAF configurations and scalable REST APIs to engineering ML pipelines that detect phishing at scale.
+
+🔐 &nbsp; **Cybersecurity** — Cryptography · Web Security · Network Defense  
+⚙️ &nbsp; **Backend** — Python · SQL · REST APIs · Scalable Systems  
+🧠 &nbsp; **AI/ML** — MLOps · Threat Detection Pipelines  
+📍 &nbsp; **Bengaluru, India** · RV University (2023 – 2027)
+
+<br clear="both"/>
+
+### 🔭 What I'm Working On
+
+> 🛡️ Web App Security Testing & WAF Deployments  
+> 🤖 ML/AI for Phishing, Voice Fraud & Deepfake Detection  
+> 📊 GRC & Cybersecurity Management  
+> 🔬 Threat Detection Pipelines & SOC Workflows
 
 <br/>
 
