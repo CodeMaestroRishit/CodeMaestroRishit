@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=220&section=header&text=Rishit%20Guha&fontSize=72&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Systems&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=220&section=header&text=Rishit%20Guha&fontSize=72&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Threat%20Detection&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+
 <!-- SOCIAL BADGES -->
 <br/>
 
@@ -33,26 +34,21 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```js
-// ─── $ cat about.json ──────────────────────────────────────────────
-{
-  "name"       : "Rishit Guha",
-  "role"       : "Cybersecurity & Backend Dev",
-  "location"   : "Bengaluru, India 🇮🇳",
-  "education"  : "B.Tech (Hons.) CSE — Cybersecurity",
-  "university" : "RV University, Bengaluru (2023 – 2027)",
-  "open_to"    : "Internships & Collaborations"
-}
+```yaml
+name: Rishit Guha
+location: Bengaluru, India 🇮🇳
+education:
+  degree: B.Tech (Hons.) Computer Science Engineering
+  specialization: Cybersecurity
+  university: RV University, Bengaluru
+  year: 2023 – 2027
 
-// ─── $ ls current_focus/ ───────────────────────────────────────────
-//  🛡️  Web App Security Testing & WAF Deployments
-//  🤖  ML/AI for Phishing, Voice Fraud & Deepfake Detection
-//  📊  GRC & Cybersecurity Management
-//  🔬  Threat Detection Pipelines & SOC Workflows
-//  📋  ISO / PCI-DSS / SOC2 Style Controls
-
-// ─── $ echo $FUN_FACT ──────────────────────────────────────────────
-// → "I turn security signals into board-level decisions 📈"
+current_focus:
+  - 🛡️ Web App Security Testing & WAF Deployments
+  - 🤖 ML/AI for Phishing, Voice Fraud & Deepfake Detection
+  - 📊 GRC & Cybersecurity Management
+  - 🔬 Threat Detection Pipelines & SOC Workflows
+  - 📋 ISO/PCI-DSS/SOC2 Style Controls
 ```
 
 <br/>
