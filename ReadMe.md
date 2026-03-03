@@ -107,7 +107,7 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <summary><b>⚡ Languages & Core</b></summary>
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript&theme=dark" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 </details>
@@ -139,7 +139,8 @@ My work sits at the intersection of **backend architecture**, **web security**, 
   <img src="https://img.shields.io/badge/Nmap-004F9F?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/WAF-NGINX+OpenAppSec-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAppSec_(Check_Point)-E80000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 </details>
@@ -161,6 +162,17 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,nginx&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI Tools</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-6E40C9?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 </details>
 
