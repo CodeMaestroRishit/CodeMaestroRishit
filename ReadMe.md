@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=220&section=header&text=Rishit%20Guha&fontSize=72&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Threat%20Detection&descSize=20&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:6E40C9,100:00C853&height=220&section=header&text=Rishit%20Guha&fontSize=72&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI/ML%20%E2%80%A2%20Threat%20Detection&descSize=20&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- SOCIAL BADGES -->
 <br/>
@@ -14,7 +14,8 @@
 </a>&nbsp;
 <a href="https://github.com/CodeMaestroRishit">
   <img src="https://img.shields.io/badge/%20-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</a>&nbsp;
+<img src="https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-1B3A57?style=for-the-badge" />
 
 <br/><br/>
 
@@ -23,14 +24,19 @@
 <br/><br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Building+ML-powered+defenses+against+cyber+threats;%F0%9F%94%8D+Turning+security+signals+into+actionable+intelligence;%F0%9F%8E%AF+Top+2+National+Finalist+%E2%80%93+India+AI+Impact+Summit+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Building+ML-powered+defenses+against+cyber+threats;%F0%9F%94%8D+Turning+security+signals+into+actionable+intelligence;%F0%9F%8E%AF+Top+2+National+Finalist+%E2%80%93+India+AI+Impact+Summit+2026;ISC2+Certified+in+Cybersecurity+%28CC%29" alt="Typing SVG" />
+
+<br/>
+
+<!-- SIGNATURE TERMINAL ELEMENT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=90&lines=%24+whoami;rishit_guha+%3A%3A+cybersecurity+engineer;%24+cat+certifications.log;%5BOK%5D+ISC2+CC+%E2%80%A2+EC-Council+%E2%80%A2+Google+%E2%80%A2+IBM;%24+status+--scan;%5BOK%5D+threat_detection+++%5BOK%5D+web_security+++%5BOK%5D+cloud_infra;system+ready" alt="Terminal" />
 
 </div>
 
 <br/>
 
 <!-- ABOUT SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6E40C9,100:00C853&height=2&section=header" width="100%" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -38,9 +44,9 @@ I'm a pre-final year **B.Tech Computer Science (Cybersecurity)** student at **RV
 
 My work sits at the intersection of **backend architecture**, **web security**, and **machine learning** — from designing WAF configurations and scalable REST APIs to engineering ML pipelines that detect phishing at scale.
 
-🔐 &nbsp; **Cybersecurity** — Cryptography · Web Security · Network Defense  
+🔐 &nbsp; **Cybersecurity** — Cryptography · Web Security · Network Defense · ISC2 CC Certified  
 ⚙️ &nbsp; **Backend** — Python · SQL · REST APIs · Scalable Systems  
-🧠 &nbsp; **AI/ML** — MLOps · Threat Detection Pipelines  
+🧠 &nbsp; **AI/ML** — MLOps · Multi-Agent Systems · Threat Detection Pipelines  
 📍 &nbsp; **Bengaluru, India** · RV University (2023 – 2027)
 
 <br clear="both"/>
@@ -49,13 +55,14 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 
 > 🛡️ Web App Security Testing & WAF Deployments  
 > 🤖 ML/AI for Phishing, Voice Fraud & Deepfake Detection  
+> 🧑‍💼 Multi-Agent AI Systems — OpenBoard, an AI executive boardroom built on OpenSwarm  
 > 📊 GRC & Cybersecurity Management  
 > 🔬 Threat Detection Pipelines & SOC Workflows
 
 <br/>
 
 <!-- TROPHY SECTION -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Achievements
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Achievements & Certifications
 
 <div align="center">
 
@@ -63,11 +70,20 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <tr>
 <td align="center" width="50%">
 
+### 🛡️ ISC2 Certified in Cybersecurity (CC)
+**International Information System Security Certification Consortium**<br/>
+<sub>Foundational credential validating core security knowledge</sub>
+
+</td>
+<td align="center" width="50%">
+
 ### 🥈 Top 2 National Finalist
 **India AI Impact Summit 2026**<br/>
 <sub>VaaniRekha – AI Voice Fraud Detection</sub>
 
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 
 ### 🥇 1st Prize
@@ -75,8 +91,6 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <sub>Project Exhibition – ResQ Healthcare</sub>
 
 </td>
-</tr>
-<tr>
 <td align="center" width="50%">
 
 ### 💰 Runner-up · ₹25K Seed Funding
@@ -84,9 +98,11 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <sub>Startup Competition</sub>
 
 </td>
-<td align="center" width="50%">
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-### 📜 Certifications
+### 📜 Additional Certifications
 **EC-Council · Google · IBM**<br/>
 <sub>Network Defense Essentials + AI/Data Trainings</sub>
 
@@ -129,9 +145,10 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 </details>
 
 <details open>
-<summary><b>🔒 Security Tools & Frameworks</b></summary>
+<summary><b>🔒 Security Tools, Frameworks & Certifications</b></summary>
 <br/>
 <p>
+  <img src="https://img.shields.io/badge/ISC2_CC-Certified_in_Cybersecurity-1B3A57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00E572" />
@@ -154,6 +171,7 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <p>
   <img src="https://img.shields.io/badge/wav2vec2-ASR-3C3C3D?style=flat-square" />
   <img src="https://img.shields.io/badge/Sarvam_AI-Voice_APIs-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-OpenSwarm-00C853?style=flat-square" />
 </p>
 </details>
 
@@ -272,6 +290,25 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏛️ OpenBoard <sub>— latest build</sub>
+**AI Executive Boardroom for Founders, built on OpenSwarm**
+
+> Stress-test startup ideas against a full board of specialized AI agents before you pitch them to a real one
+
+- 🧑‍💼 Multi-persona agent board — **CEO, CTO, Product Manager, Marketing Lead, VC Skeptic, Customer, CFO, Chief Security Officer, Legal & Compliance** — each with selectable leadership personas
+- ⚖️ A **Chairman agent** synthesizes the debate into a formal board resolution, executive votes, and board meeting minutes
+- 🧩 Powered by **OpenSwarm**, a custom multi-agent orchestration framework — independent parallel agent execution, a shared message bus, and reusable Skills modules
+- 🛠️ `Python` `Multi-Agent Systems` `LLM Orchestration`
+
+<p>
+  <img src="https://img.shields.io/badge/Status-In_Development-A371F7?style=flat-square" />
+</p>
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -319,6 +356,10 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestroRishit&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&hide_border=false" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeMaestroRishit&theme=dracula&no-frame=true&row=1&margin-w=10&column=7" width="95%" />
+
 </div>
 
 <br/>
@@ -326,6 +367,19 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeMaestroRishit&custom_title=Contribution%20Graph&bg_color=0D1117&color=A371F7&line=A371F7&point=FF6E40&area_color=161B22&area=true&hide_border=true" width="95%" />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/CodeMaestroRishit/CodeMaestroRishit/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake animation" />
+
+<sub>Animated by the included GitHub Action — see <code>snake.yml</code> — runs daily and eats through the contribution graph 🟪</sub>
+
 </div>
 
 <br/>
@@ -342,10 +396,13 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 | 🔐 **Specialization** | Cybersecurity |
 | 📅 **Duration** | 2023 – 2027 |
 | 📚 **Key Courses** | OS · DBMS · Computer Networks · Cryptography · Cloud · Web Security |
+| 🎖️ **Certifications** | ISC2 CC · EC-Council Network Defense Essentials · Google & IBM (AI/Data) |
 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:6E40C9,100:0D1117&height=2&section=header" width="100%" />
 
 <!-- CONNECT -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
@@ -368,6 +425,6 @@ I'm always open to collaborating on **cybersecurity**, **threat detection**, **G
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:6E40C9&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,45:6E40C9,75:161B22,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
