@@ -373,45 +373,6 @@ My work sits at the intersection of **application security**, **backend engineer
 
 <br/>
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeMaestroRishit&show_icons=true&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaestroRishit&theme=github-dark-blue&border=30363D&background=0D1117&stroke=A371F7&ring=A371F7&fire=FF6E40&currStreakLabel=A371F7&sideLabels=C9D1D9&dates=8B949E" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestroRishit&layout=compact&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&hide_border=false" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodeMaestroRishit&theme=dracula&no-frame=true&row=1&margin-w=10&column=7" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeMaestroRishit&custom_title=Contribution%20Graph&bg_color=0D1117&color=A371F7&line=A371F7&point=FF6E40&area_color=161B22&area=true&hide_border=true" width="95%" />
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/CodeMaestroRishit/CodeMaestroRishit/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake animation" />
-
-<sub>Animated by the included GitHub Action — see <code>snake.yml</code> — runs daily and eats through the contribution graph 🟪</sub>
-
-</div>
-
-<br/>
 
 <!-- EDUCATION -->
 ## 🎓 Education
