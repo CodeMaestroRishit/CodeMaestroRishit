@@ -15,7 +15,8 @@
 <a href="https://github.com/CodeMaestroRishit">
   <img src="https://img.shields.io/badge/%20-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
-<img src="https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-1B3A57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ISC2%20CC-Certified%20in%20Cybersecurity-1B3A57?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <br/><br/>
 
@@ -24,29 +25,42 @@
 <br/><br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Building+ML-powered+defenses+against+cyber+threats;%F0%9F%94%8D+Turning+security+signals+into+actionable+intelligence;%F0%9F%8E%AF+Top+2+National+Finalist+%E2%80%93+India+AI+Impact+Summit+2026;ISC2+Certified+in+Cybersecurity+%28CC%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Building+ML-powered+defenses+against+cyber+threats;%F0%9F%94%8D+Turning+security+signals+into+actionable+intelligence;%F0%9F%8E%AF+Top+2+National+Finalist+%E2%80%93+India+AI+Impact+Summit+2026;ISC2+CC+%E2%80%A2+AWS+Certified+AI+Practitioner" alt="Typing SVG" />
 
 <br/>
 
 <!-- SIGNATURE TERMINAL ELEMENT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=90&lines=%24+whoami;rishit_guha+%3A%3A+cybersecurity+engineer;%24+cat+certifications.log;%5BOK%5D+ISC2+CC+%E2%80%A2+EC-Council+%E2%80%A2+Google+%E2%80%A2+IBM;%24+status+--scan;%5BOK%5D+threat_detection+++%5BOK%5D+web_security+++%5BOK%5D+cloud_infra;system+ready" alt="Terminal" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=90&lines=%24+whoami;rishit_guha+%3A%3A+cybersecurity+engineer;%24+cat+certifications.log;%5BOK%5D+ISC2+CC+%E2%80%A2+AWS+AI+Practitioner+%E2%80%A2+EC-Council;%24+status+--scan;%5BOK%5D+threat_detection+++%5BOK%5D+web_security+++%5BOK%5D+cloud_infra;system+ready" alt="Terminal" />
 
 </div>
 
 <br/>
 
-<!-- ABOUT SECTION -->
+<!-- QUICK FACTS FOR RECRUITERS -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:6E40C9,100:00C853&height=2&section=header" width="100%" />
+
+<div align="center">
+
+### 🎯 Currently seeking Cybersecurity / AppSec / GRC internship & full-time opportunities
+
+| 🎓 Degree | 📍 Location | 🛡️ Certified | 📈 Focus |
+|---|---|---|---|
+| B.Tech (Hons.) CSE — Cybersecurity, RV University | Bengaluru, India | ISC2 CC · AWS AI Practitioner | AppSec · ML Security · GRC |
+
+</div>
+
+<br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-I'm a pre-final year **B.Tech Computer Science (Cybersecurity)** student at **RV University, Bengaluru**. I build systems that are not only powerful but inherently *resilient*.
+Pre-final year **B.Tech Computer Science (Cybersecurity)** student at **RV University, Bengaluru**, building systems that are secure by design, not by patch.
 
-My work sits at the intersection of **backend architecture**, **web security**, and **machine learning** — from designing WAF configurations and scalable REST APIs to engineering ML pipelines that detect phishing at scale.
+My work sits at the intersection of **application security**, **backend engineering**, and **applied AI/ML** — from WAF architecture and REST API hardening to ML pipelines that catch phishing and voice fraud before they reach a victim. I've applied this in a government research internship (C-DOT), a production internship (BluePMS), and a national AI safety competition (Top 2 finalist, India AI Impact Summit 2026).
 
-🔐 &nbsp; **Cybersecurity** — Cryptography · Web Security · Network Defense · ISC2 CC Certified  
+🔐 &nbsp; **Cybersecurity** — Web Security · Network Defense · Cryptography · ISC2 CC Certified  
+☁️ &nbsp; **Cloud & AI** — AWS Certified AI Practitioner · Responsible AI · MLOps  
 ⚙️ &nbsp; **Backend** — Python · SQL · REST APIs · Scalable Systems  
-🧠 &nbsp; **AI/ML** — MLOps · Multi-Agent Systems · Threat Detection Pipelines  
+🧠 &nbsp; **AI/ML** — Multi-Agent Systems · Threat Detection Pipelines  
 📍 &nbsp; **Bengaluru, India** · RV University (2023 – 2027)
 
 <br clear="both"/>
@@ -77,13 +91,20 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 </td>
 <td align="center" width="50%">
 
+### ☁️ AWS Certified AI Practitioner
+**Amazon Web Services**<br/>
+<sub>Foundational credential validating AI/ML & generative AI fluency on AWS</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 ### 🥈 Top 2 National Finalist
 **India AI Impact Summit 2026**<br/>
 <sub>VaaniRekha – AI Voice Fraud Detection</sub>
 
 </td>
-</tr>
-<tr>
 <td align="center" width="50%">
 
 ### 🥇 1st Prize
@@ -91,6 +112,8 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <sub>Project Exhibition – ResQ Healthcare</sub>
 
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 
 ### 💰 Runner-up · ₹25K Seed Funding
@@ -98,9 +121,7 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 <sub>Startup Competition</sub>
 
 </td>
-</tr>
-<tr>
-<td align="center" colspan="2">
+<td align="center" width="50%">
 
 ### 📜 Additional Certifications
 **EC-Council · Google · IBM**<br/>
@@ -163,12 +184,20 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 </details>
 
 <details open>
-<summary><b>🧠 AI / ML & Voice Tech</b></summary>
+<summary><b>🧠 AI / ML, Voice Tech & AWS AI</b></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsible_AI-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=flat-square" />
   <img src="https://img.shields.io/badge/wav2vec2-ASR-3C3C3D?style=flat-square" />
   <img src="https://img.shields.io/badge/Sarvam_AI-Voice_APIs-6E40C9?style=flat-square" />
   <img src="https://img.shields.io/badge/Multi--Agent_Systems-OpenSwarm-00C853?style=flat-square" />
@@ -396,7 +425,7 @@ My work sits at the intersection of **backend architecture**, **web security**, 
 | 🔐 **Specialization** | Cybersecurity |
 | 📅 **Duration** | 2023 – 2027 |
 | 📚 **Key Courses** | OS · DBMS · Computer Networks · Cryptography · Cloud · Web Security |
-| 🎖️ **Certifications** | ISC2 CC · EC-Council Network Defense Essentials · Google & IBM (AI/Data) |
+| 🎖️ **Certifications** | ISC2 CC · AWS Certified AI Practitioner · EC-Council Network Defense Essentials · Google & IBM (AI/Data) |
 
 </div>
 
