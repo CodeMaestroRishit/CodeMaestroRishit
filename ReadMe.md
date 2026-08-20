@@ -322,18 +322,18 @@ My work sits at the intersection of **application security**, **backend engineer
 <tr>
 <td colspan="2" valign="top">
 
-### 🏛️ OpenBoard <sub>— latest build</sub>
-**AI Executive Boardroom for Founders, built on OpenSwarm**
+### 🔍 SeekPoint <sub>— latest build</sub>
+**Find the exact moment — RAG-powered course companion**
 
-> Stress-test startup ideas against a full board of specialized AI agents before you pitch them to a real one
+> Ask questions about your course lessons and get cited, timestamped answers. Surface funny, insightful, or controversial clips in seconds — built for creators and learners who don't have time to scrub through hours of video.
 
-- 🧑‍💼 Multi-persona agent board — **CEO, CTO, Product Manager, Marketing Lead, VC Skeptic, Customer, CFO, Chief Security Officer, Legal & Compliance** — each with selectable leadership personas
-- ⚖️ A **Chairman agent** synthesizes the debate into a formal board resolution, executive votes, and board meeting minutes
-- 🧩 Powered by **OpenSwarm**, a custom multi-agent orchestration framework — independent parallel agent execution, a shared message bus, and reusable Skills modules
-- 🛠️ `Python` `Multi-Agent Systems` `LLM Orchestration`
+- 🧠 **LangGraph** orchestration over lesson transcripts with **ChromaDB** vector search for cited, timestamped answers
+- ⚛️ **React** frontend on **Vercel** + **Node.js** backend on **Render**
+- 🎯 Targets creators and learners who need to find a moment in long-form video fast, not skim it manually
+- 🛠️ `React` `Node.js` `LangGraph` `ChromaDB` `RAG`
 
 <p>
-  <img src="https://img.shields.io/badge/Status-In_Development-A371F7?style=flat-square" />
+  <a href="https://github.com/CodeMaestroRishit/rag-course-companion"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 </td>
