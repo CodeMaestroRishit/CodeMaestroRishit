@@ -53,7 +53,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-Pre-final year **B.Tech Computer Science (Cybersecurity)** student at **RV University, Bengaluru**, building systems that are secure by design, not by patch.
+Final year **B.Tech Computer Science (Cybersecurity)** student at **RV University, Bengaluru**, building systems that are secure by design, not by patch.
 
 My work sits at the intersection of **application security**, **backend engineering**, and **applied AI/ML** — from WAF architecture and REST API hardening to ML pipelines that catch phishing and voice fraud before they reach a victim. I've applied this in a government research internship (C-DOT), a production internship (BluePMS), and a national AI safety competition (Top 2 finalist, India AI Impact Summit 2026).
 
